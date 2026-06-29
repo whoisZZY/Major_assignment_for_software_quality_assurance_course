@@ -4,6 +4,9 @@
 
 LLM辅助Linux内核缺陷分析增强研究（基于 KernelGPT）
 
+## [项目仓库地址](https://github.com/Dawn-LiMingWei/KernelGPT)
+https://github.com/Dawn-LiMingWei/KernelGPT
+
 ## 小组成员
 
 | 姓名         | 学号        |
@@ -13,4 +16,3 @@ LLM辅助Linux内核缺陷分析增强研究（基于 KernelGPT）
 | 孔庆宇       | 23009200343 |
 | 王湘睿       | 23009201000 |
 | 王昭涵       | 23009201050 |
-
