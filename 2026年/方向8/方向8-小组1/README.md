@@ -1,3 +1,5 @@
 # 方向 8-小组 1
 
 - 小组成员: 龚祖涵 董则云 安炳宇 李佳峻 谭必成
+
+- 项目仓库: [Fruit-Classification-By-ResNet](https://github.com/gzhiahia/Fruit-Classification-By-ResNet/)
