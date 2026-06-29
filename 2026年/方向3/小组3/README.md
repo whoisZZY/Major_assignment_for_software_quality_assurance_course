@@ -1,5 +1,7 @@
-# 选题3-小组3 开题报告：Hap Repair：基于LLM和CodeLinter的OpenHarmony代码修复
+# 选题3-小组3 Hap Repair：面向个人电脑环境的轻量化LLM软件缺陷修复方法研究
 
 ## 小组成员
 - **组长**: 高敏耀 23009200766
 - **其他组员**: 胡锦阳 23009200759 / 刘峻希 23009201434 / 李许涵 23009200590 / 方明远 23009200803
+
+- **仓库地址**: https://github.com/SundayMorning2333/haprepair-homework3-3/
